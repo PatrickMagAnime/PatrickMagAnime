@@ -8,10 +8,13 @@ x is an array of pointers to more pointers to functions that receive a pointer t
 ## 🚀 About Me
 I'm a student passionate about programming and open-source contributions!
 
+NOTE:
+Any code written in a language other than Java is 99% likely to be AI-generated
+
 ## 🛠️ My Skills
-- **Languages**: JavaScript, Python, Java, C++
-- **Frameworks**: React, Node.js, Django
-- **Tools**: Git, Docker, Kubernetes
+- **Languages**: Java (Learning - Intermediate), Python (Beginner)
+- **Frameworks**: Idk
+- **Tools**: Git, nvim, IntelliJ, VisualStudio
 
 ## 📊 GitHub Stats
 ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickMagAnime&show_icons=true&theme=radical)
@@ -21,8 +24,3 @@ I'm a student passionate about programming and open-source contributions!
 
 ## 💻 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickMagAnime&layout=compact&theme=radical)
-
-## 🔗 Links
-- [Portfolio](https://your-portfolio-link.com)
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-handle)
