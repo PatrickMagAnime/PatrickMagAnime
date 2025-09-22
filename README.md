@@ -1,4 +1,5 @@
-![](https://media1.tenor.com/m/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif)
+![hacker](https://media1.tenor.com/m/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif)
+
 ### About Me
 I'm an average student passionate about programming and open-source contributions!
 
