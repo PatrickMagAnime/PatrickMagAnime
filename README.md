@@ -1,6 +1,4 @@
-
-## I'm Patrick
-
+![](https://media1.tenor.com/m/x7FrMk4q10IAAAAd/hacker-reality-colored-keyboard.gif)
 ### About Me
 I'm an average student passionate about programming and open-source contributions!
 
@@ -8,12 +6,6 @@ I'm an average student passionate about programming and open-source contribution
 - **Languages**: Java, Python
 - **Frameworks**: Node
 - **Tools**: Git, Docker
-
-### GitHub Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=PatrickMagAnime&show_icons=true&theme=radical)
-
-### GitHub Trophies
-![My trophys](https://github-profile-trophy.vercel.app/?username=PatrickMagAnime&theme=onedark)
 
 ### Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickMagAnime&layout=compact&theme=radical)
