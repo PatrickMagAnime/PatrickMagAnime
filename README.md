@@ -8,6 +8,7 @@ I'm an average student passionate about programming and open-source contribution
 - **Frameworks**: Node
 - **Tools**: Git, Docker
 
-### Most Used Languages
+### Most Used Languages in my Repos
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickMagAnime&layout=compact&theme=radical)
+all .hack files are actually .java files
 
